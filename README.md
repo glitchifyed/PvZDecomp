@@ -1,2 +1,2 @@
-# PvZ Quality of the Lawn-Decompile
- A edit of the PvZ Decompile that adds QoL features
+# PvZ Decompilation
+ Aims to uphold the original version of the game as closely as possible. Forked from Quality of The Lawn.
