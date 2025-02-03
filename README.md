@@ -1,2 +1,2 @@
-# PvZ Quality of the Lawn-Decompile
- A edit of the PvZ Decompile that adds QoL features
+# PvZ Decompilation test
+ A testing environment
